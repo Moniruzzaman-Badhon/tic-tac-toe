@@ -1,4 +1,4 @@
-# 🎮 Tic-Tac-Toe Game
+ Tic-Tac-Toe Game
 
 A clean, interactive, and fully responsive **Tic-Tac-Toe** web application built with modern front-end fundamentals. Challenge a friend and enjoy a smooth, nostalgic gaming experience right in your browser!
 
@@ -6,7 +6,10 @@ A clean, interactive, and fully responsive **Tic-Tac-Toe** web application built
 
 ---
 
-## 🚀 Features
+Preview
+Live Demo: **[View Calculator Live](https://moniruzzaman-badhon.github.io/calculator/)**
+
+ Features
 
 * **Interactive Turn-Based Logic:** Seamless switching between Player X and Player O.
 * **Instant Win & Draw Detection:** Automatically evaluates the board state to declare a winner or identify a tie.
@@ -15,7 +18,7 @@ A clean, interactive, and fully responsive **Tic-Tac-Toe** web application built
 
 ---
 
-## 🛠️ Built With
+ Built With
 
 * **HTML5** – Semantic structure for the game board and controls.
 * **CSS3** – Modern styling, layout design, and smooth hover/interactive states.
@@ -24,8 +27,7 @@ A clean, interactive, and fully responsive **Tic-Tac-Toe** web application built
 ---
 
 
-
-💡 Future Enhancements
+Future Enhancements
 * **Add an AI opponent (Single Player mode vs. Computer using Minimax algorithm).
 
 * **Score tracker to keep count of wins, losses, and ties across multiple rounds.
