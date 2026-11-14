@@ -7,7 +7,7 @@ A clean, interactive, and fully responsive **Tic-Tac-Toe** web application built
 ---
 
 Preview
-Live Demo: **[View Calculator Live](https://moniruzzaman-badhon.github.io/calculator/)**
+Live Demo: **[View Calculator Live](https://moniruzzaman-badhon.github.io/tic-tac-toe/)**
 
  Features
 
