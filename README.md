@@ -23,23 +23,16 @@ A clean, interactive, and fully responsive **Tic-Tac-Toe** web application built
 
 ---
 
-## 📁 Project Structure
 
-
-tic-tac-toe/
-│
-├── index.html       # Main HTML structure
-├── style.css        # Styling and layout design
-└── script.exe / .js # Game logic and event handling
 
 💡 Future Enhancements
-[ ] Add an AI opponent (Single Player mode vs. Computer using Minimax algorithm).
+* **Add an AI opponent (Single Player mode vs. Computer using Minimax algorithm).
 
-[ ] Score tracker to keep count of wins, losses, and ties across multiple rounds.
+* **Score tracker to keep count of wins, losses, and ties across multiple rounds.
 
-[ ] Sound effects for moves, wins, and resets.
+* **Sound effects for moves, wins, and resets.
 
 👤 Author
 Md. Moniruzzaman Badhon
 
-GitHub: @Moniruzzaman-Badhon
+GitHub: Moniruzzaman-Badhon
